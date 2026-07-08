@@ -1,0 +1,25 @@
+{
+  "servers": [
+    {
+      "serverId": 1,
+      "ip": "80.242.59.112",
+      "port": "3965",
+      "serverName": "Ростов",
+      "onlinePlayers": 12,
+      "maxPlayers": 500,
+      "isAvailable": true,
+      "description": "шутки шутками а про 
+      Kent не забываем "
+    },
+    {
+      "serverId": 2,
+      "ip": "185.207.214.14",
+      "port": "4278",
+      "serverName": "Скоро открытие ",
+      "onlinePlayers": 3,
+      "maxPlayers": 200,
+      "isAvailable": true,
+      "description": "скоро открытие "
+    }
+  ]
+}

@@ -3,8 +3,8 @@
       "serverId": 1,
       "ip": "80.242.59.112",
       "port": "3965",
-      "serverName": Ростов #1",
-      "onlinePlayers": 0,
+      "serverName": "Ростов #1",
+      "onlinePlayers": online ,
       "maxPlayers": 1000,
       "isAvailable": true,
       "description": "Игровой сервер"
@@ -13,8 +13,8 @@
       "serverId": 2,
       "ip": "141.95.190.140",
       "port": "1985",
-      "serverName": Kent test",
-      "onlinePlayers": 1,
+      "serverName": "Kent test",
+      "onlinePlayers": offline,
       "maxPlayers": 50,
       "isAvailable": true,
       "description": "Тестовый сервер"

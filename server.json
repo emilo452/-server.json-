@@ -4,7 +4,7 @@
       "ip": "80.242.59.112",
       "port": "3965",
       "serverName": "Ростов #1",
-      "onlinePlayers": online ,
+      "onlinePlayers": 0,
       "maxPlayers": 1000,
       "isAvailable": true,
       "description": "Игровой сервер"
@@ -14,7 +14,7 @@
       "ip": "141.95.190.140",
       "port": "1985",
       "serverName": "Kent test",
-      "onlinePlayers": offline,
+      "onlinePlayers": 1,
       "maxPlayers": 50,
       "isAvailable": true,
       "description": "Тестовый сервер"

@@ -1,22 +1,22 @@
-[
-    {
-      "serverId": 1,
-      "ip": "80.242.59.112",
-      "port": "3965",
-      "serverName": "Ростов #1",
-      "onlinePlayers": 0,
-      "maxPlayers": 1000,
-      "isAvailable": true,
-      "description": "Игровой сервер"
-    },
-    {
-      "serverId": 2,
-      "ip": "141.95.190.140",
-      "port": "1985",
-      "serverName": "Kent test",
-      "onlinePlayers": 1,
-      "maxPlayers": 50,
-      "isAvailable": true,
-      "description": "Тестовый сервер"
-    }
-]
+{
+    "servers": [
+        {
+            "color": "FF0000",
+            "dopname": "(X2)",
+            "maxonline": 1000,
+            "name": "РОСТОВ #1",
+            "online": 0,
+            "ip": "185.207.214.14",
+            "port": 3965
+        },
+        {
+            "color": "FFFFFF",
+            "dopname": "(X2)",
+            "maxonline": 1000,
+            "name": "Тест",
+            "online": 0,
+            "ip": "185.207.214.14",
+            "port": 4277
+        }
+    ]
+}
